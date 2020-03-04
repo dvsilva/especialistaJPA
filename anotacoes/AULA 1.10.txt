@@ -1,0 +1,5 @@
+AULA 1.10
+
+- jdbc x JPA
+	- quantidade de linhas para implementação
+	- impacto de mudanças, ex: adicionar ou remover campo

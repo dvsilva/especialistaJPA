@@ -1,0 +1,4 @@
+AULA 1.13
+
+- Jakarta Persistence (Jakarta Persistence API)
+- Hibernate core possui subdependencia a jakarta persistence
