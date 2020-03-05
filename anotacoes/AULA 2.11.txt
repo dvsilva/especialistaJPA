@@ -1,0 +1,5 @@
+AULA 2.11
+
+- merge - realizar a alteração no registro
+- clear - o merge coloca na memória para gerenciar pelo entitymanager. ele faz uma cópia por isso sem o clear ele busca na memória, com o clear ele obriga atualizar os dados para depois buscar na base de dados
+- no merge se não colocar nada nos outros atributos ele coloca como null

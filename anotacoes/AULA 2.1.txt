@@ -1,0 +1,8 @@
+AULA 2.1
+
+- mavem 
+	- software project management
+	- gerenciador de dependências
+- pom.xml
+	- dependencias: hibernate, mysql e junit
+	- erro de zip pode ser jar corrompido

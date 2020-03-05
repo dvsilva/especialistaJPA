@@ -1,0 +1,9 @@
+AULA 2.3
+
+- configurão do persistence.xml
+	- useTimezone=true&amp;serverTimezone=UTC - não precisa no linux
+	- <property name="javax.persistence.schema-generation.database.action" value="drop-and-create"/> - deleta e cria o banco de dados
+    - <property name="javax.persistence.sql-load-script-source" value="META-INF/banco-de-dados/dados-iniciais.sql"/> - dados iniciais
+    - <property name="hibernate.show_sql" value="true" /> - mostrar sql
+    - <property name="hibernate.format_sql" value="true" /> - formatar sql
+    - <class></class> - informar entidades mas não precisa

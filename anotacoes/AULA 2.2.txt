@@ -1,0 +1,4 @@
+AULA 2.2
+
+- @Entity - tabela do banco de dados
+- @Id - chave primária

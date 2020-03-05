@@ -1,0 +1,6 @@
+AULA 2.6
+
+- busca por identificador
+- find - buscar o produto
+- getReference - enquanto não usa uma propriedade o hibernate não vai no banco de dados, não executa sql
+- refresh - voltar ao estado do banco de dados original mesmo após mudanças / reeniciar entidade
