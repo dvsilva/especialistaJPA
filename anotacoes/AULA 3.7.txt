@@ -1,0 +1,8 @@
+AULA 3.7
+
+- estrategias para chave primária - não precisa atribuir o Id nos objetos
+	- usar anotação @GeneratedValue(strategy = GenerationType.IDENTITY)
+	- AUTO - implementação do JPA escolher como o identificador será atribuido (também gera tabela - hibernate_sequence) faz select para inserir
+	- SEQUENCE - 
+	- TABLE - usa uma tabela para guardar identificador
+	- IDENTITY - 

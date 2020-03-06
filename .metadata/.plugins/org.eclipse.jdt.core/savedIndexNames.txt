@@ -1,24 +1,5 @@
 INDEX VERSION 1.131+/home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/.metadata/.plugins/org.eclipse.jdt.core
-1771899438.index
-1199449845.index
-909178765.index
-1344871830.index
-2785445180.index
-4149457817.index
-3339104662.index
-256404340.index
-32490684.index
-3448472324.index
-1688281452.index
-918751643.index
-3576201538.index
-2727516651.index
-1225926725.index
-4275747809.index
+1699013365.index
+1616964117.index
+998806147.index
 2018372985.index
-2521646448.index
-2087532761.index
-4200889150.index
-2284393312.index
-2361721836.index
-190176811.index

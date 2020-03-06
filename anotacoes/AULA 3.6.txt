@@ -1,0 +1,5 @@
+AULA 3.6
+
+- objetos embutidos
+- usar a anotação @Embedded (atributo) e 
+@Embeddable (classe)
