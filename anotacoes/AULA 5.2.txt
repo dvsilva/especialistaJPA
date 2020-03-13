@@ -1,0 +1,8 @@
+AULA 5.2
+
+- cache primeiro nível
+- clear e close limpa e obriga a consultar novamente
+	- close tem que abrir novamente	 
+- implicações
+	- economiza consultas
+	- guarda instancia do entitymanager na sessão como um cache de sessão, deixar por request
