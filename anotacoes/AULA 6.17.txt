@@ -1,0 +1,16 @@
+AULA 6.17
+
+- padrão de herança de entidade abastrata é single table
+- explicitar a configuração
+
+@DiscriminatorColumn(name = "tipo_pagamento", discriminatorType = DiscriminatorType.STRING)
+@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
+
+e 
+
+@DiscriminatorValue("cartao")
+padrão é o nome da classe
+
+e
+
+@DiscriminatorValue("boleto")
