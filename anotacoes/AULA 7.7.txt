@@ -1,0 +1,5 @@
+AULA 7.7
+
+- String tem no máximo de 255 caracteres
+- @Lob ou columnDefinition="text" -> possibilita texto grandes
+(descricao longtext)
