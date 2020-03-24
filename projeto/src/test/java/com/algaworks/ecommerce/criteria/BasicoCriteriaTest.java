@@ -1,24 +1,16 @@
 package com.algaworks.ecommerce.criteria;
 
-import java.math.BigDecimal;
-import java.util.List;
-
-import javax.persistence.Tuple;
-import javax.persistence.TypedQuery;
-import javax.persistence.criteria.CriteriaBuilder;
-import javax.persistence.criteria.CriteriaQuery;
-import javax.persistence.criteria.Root;
-
+import com.algaworks.ecommerce.EntityManagerTest;
+import com.algaworks.ecommerce.dto.ProdutoDTO;
+import com.algaworks.ecommerce.model.*;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.algaworks.ecommerce.EntityManagerTest;
-import com.algaworks.ecommerce.dto.ProdutoDTO;
-import com.algaworks.ecommerce.model.Cliente;
-import com.algaworks.ecommerce.model.Cliente_;
-import com.algaworks.ecommerce.model.Pedido;
-import com.algaworks.ecommerce.model.Pedido_;
-import com.algaworks.ecommerce.model.Produto;
+import javax.persistence.Tuple;
+import javax.persistence.TypedQuery;
+import javax.persistence.criteria.*;
+import java.math.BigDecimal;
+import java.util.List;
 
 public class BasicoCriteriaTest extends EntityManagerTest {
 
