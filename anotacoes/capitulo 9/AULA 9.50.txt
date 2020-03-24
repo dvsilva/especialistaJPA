@@ -1,0 +1,13 @@
+AULA 9.50
+- precisa acessar a entityManagerFactory
+- transformar uma dynamic query em uma named query
+
+String jpql = "select c from Categoria c";
+TypedQuery<Categoria> typedQuery = em.createQuery(jpql, Categoria.class);
+
+entityManagerFactory.addNamedQuery("Categoria.listar", typedQuery);
+
+TypedQuery<Categoria> typedQuery = entityManager
+.createNamedQuery("Categoria.listar", Categoria.class);
+
+- ex. variavel de ambiente configurada em cada cliente e tem alguma consulta o banco de dados para obter dados conforme essa variavel

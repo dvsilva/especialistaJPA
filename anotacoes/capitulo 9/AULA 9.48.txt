@@ -1,0 +1,15 @@
+AULA 9.48
+- named query -> não é dinamica, não muda
+	- compilada e validada quando inicia
+- compilação quando a factory for configurada no inicio
+
+- colocar anotação, nome e query
+@NamedQueries({
+    @NamedQuery(name = "Produto.listar", query = "select p from Produto p"),
+    @NamedQuery(name = "Produto.listarPorCategoria", query = "select p from Produto p where exists (select 1 from Categoria c2 join c2.produtos p2 where p2 = p and c2.id = :categoria)")
+})
+
+- na consulta colocar nome da namedquery
+ TypedQuery<Produto> typedQuery = entityManager
+                .createNamedQuery("Produto.listarPorCategoria", Produto.class);
+

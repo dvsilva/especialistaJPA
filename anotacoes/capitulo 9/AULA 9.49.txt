@@ -1,0 +1,12 @@
+AULA 9.49
+- JPQL em um arquivo externo
+- dentro de src/main/resources criar arquivo orm.xml
+- compilação quando a factory for configurada no inicio
+- consultar como namedquery
+
+- pode criar arquivo consultas/pedido.xml 
+- necessário especificar no persistence.xml
+
+<persistence-unit name="Ecommerce-PU">
+	<mapping-file>META-INF/consultas/pedido.xml</mapping-file>
+	<mapping-file>META-INF/consultas/produto.xml</mapping-file>

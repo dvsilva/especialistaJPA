@@ -1,0 +1,3 @@
+AULA 9.2
+- diferenca das queries
+- Query precisa fazer o cast enquanto TypedQuery<Pedido> não precisa 

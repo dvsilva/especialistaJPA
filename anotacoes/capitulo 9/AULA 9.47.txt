@@ -1,0 +1,2 @@
+AULA 9.47
+- dynamic query -> condições de montar JPQL conforme com a regra (ex. igual a nulo) 

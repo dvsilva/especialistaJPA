@@ -1,0 +1,25 @@
+AULA 9.1
+- JPQL - Java Persistence Query Language
+
+- SQL 
+select p.* from pedido p where p.id = 1
+- select p from Pedido p join item_pedido on i.pedido_id = p.id where i.preco_produto > 10
+
+- JPQL
+- faz referencia a entidade e atributos
+- select p from Pedido p where p.id = 1
+- pode colcar o pacote da entidade
+- select p from com.algaworks.ecommerce.model.Pedido p where p.id = 1
+- join
+- select p from Pedido p join p.itens i where i.precoProduto > 10
+- traz os dados das outras tabelas dados os relacionamentos mapeados
+
+fazer consulta TypedQuery
+
+TypedQuery<Pedido> typedQuery = entityManager
+            .createQuery("select p from Pedido p where p.id = 1", Pedido.class);
+
+// GARANTIR QUE RETORNAR APENAS UM ELEMENTO
+Pedido pedido = typedQuery.getSingleResult();
+// SENÃO USAR LISTA
+List<Pedido> lista = typedQuery.getResultList();
