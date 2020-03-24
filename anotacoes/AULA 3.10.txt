@@ -1,7 +1,0 @@
-AULA 3.10
-
-- estrategias para chave primária - não precisa atribuir o Id nos objetos - IDENTITY
-	- @GeneratedValue(strategy = GenerationType.IDENTITY)
-    - mysql pega a chave primaria da tabela no banco de dados devido ao auto increment do mysql
-    - o JPA e hibernate atualiza o objeto com o Id no persist
-    - retirar a atribuição do id pois usa o IDENTITY

@@ -1,0 +1,3 @@
+AULA 2.13
+
+- merge poder ser usado para atualizar e para inserir

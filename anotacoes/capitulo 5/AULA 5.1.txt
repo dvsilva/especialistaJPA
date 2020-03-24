@@ -1,0 +1,7 @@
+AULA 5.1
+
+- ciclo de vida dos objetos
+- transient -> new Categoria(), novo que não seja instanciado pelo JPA / entity manager
+- managed -> persist ou quando faz find ou query (JPQL), quando faz o commit/flush atualiza a base de dados
+- detached -> clear/close/detached, antes de abrir ou fechar a transação
+- removed -> persist volta pro managed, quando faz o commit/flush atualiza a base de dados

@@ -1,0 +1,10 @@
+AULA 3.9
+
+- estrategias para chave primária - não precisa atribuir o Id nos objetos - TABLE
+	- cria uma tabela e comportilha para diversas entidades usando o sequence_name
+	- 	@GeneratedValue(strategy = GenerationType.TABLE, generator = "tabela")
+	@TableGenerator(name = "tabela", table = "hibernate_sequences", 
+	pkColumnName="sequence_name", pkColumnValue="categoria",
+	valueColumnName="next_val", initialValue = 0, allocationSize = 50)
+	- não são performaticas
+

@@ -1,7 +1,0 @@
-AULA 6.3
-
-- chave composta
-- @IdClass(ItemPedidoId.class) -> na classe que possui id composta
-- lombok -> criar construtores
-@NoArgsConstructor
-@AllArgsConstructor

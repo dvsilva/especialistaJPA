@@ -1,5 +1,0 @@
-AULA 6.5
-
-- onetoone, id não vai se repetir, pode ser a PK
-- @MapsId -> subistitui o Id da classe pela chave de outra
-- @MapsId("pedidoId") -> chave composta pegar da classe ItemPedidoId

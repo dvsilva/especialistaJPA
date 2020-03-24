@@ -1,0 +1,9 @@
+AULA 3.8
+
+- estrategias para chave primária - não precisa atribuir o Id nos objetos - SEQUENCE 
+	- 	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq")
+	@SequenceGenerator(name = "seq", sequenceName = "sequenceias_chave_primaria", 
+	initialValue = 1, allocationSize = 50)
+	- muda nome da tabela
+	- nao pode fazer para a outra classe, tem que mudar o sequenceName (mesma sequence), categoria_sequenceias_chave_primaria
+	- 

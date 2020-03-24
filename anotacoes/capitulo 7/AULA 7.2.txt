@@ -1,0 +1,16 @@
+AULA 7.2
+
+- @Table
+- uniqueConstraints -> coluna única no banco de dados
+
+uniqueConstraints = { @UniqueConstraint(name = "unq_cpf", columnNames = { "cpf" }) },
+
+- indexes -> índice da tabela
+ indexes = { @Index(name = "idx_nome", columnList = "nome") }
+
+- schema -> namespace para banco de dados
+- catalog -> namespace para banco de dados
+
+@Table(name = "cliente",
+uniqueConstraints = { @UniqueConstraint(name = "unq_cpf", columnNames = { "cpf" }) },
+indexes = { @Index(name = "idx_nome", columnList = "nome") })

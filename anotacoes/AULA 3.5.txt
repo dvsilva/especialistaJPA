@@ -1,6 +1,0 @@
-AULA 3.5
-
-- mapeando enumereções
-- usar anotação @Enumerated(EnumType.STRING)
-	- por padrão ele coloca a posição do enumerator (EnumType.ORDINAL)
-	- se colocar String ele pega o nome do enum

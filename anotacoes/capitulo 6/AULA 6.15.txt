@@ -1,0 +1,4 @@
+AULA 6.15
+
+- herança MappedSuperclass
+- coloca a anotação @MappedSuperclass para herdar o atributo como Id

@@ -1,0 +1,6 @@
+AULA 6.16
+
+- estender uma entidade abstrata e mappedsuperclass
+
+- Pagamento como mappedsuperclass da erro na referencia em pedido
+- entidade abstrata pode ser usada para fazer consultas JPQL, pode alterar a estrutura de tabelas e pode fazer relacionamentos

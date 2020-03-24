@@ -1,0 +1,8 @@
+AULA 8.2
+- cascade ALL
+
+@ManyToOne(cascade = CascadeType.PERSIST)
+
+- se não colocar o cascade ao salvar entidade com referencia a outra entidade com estado transiente
+
+- cascade PERSIST entre itempedido com pedido não precisa por causa do MapsId pois faz parte da PK mas se for MERGE precisa

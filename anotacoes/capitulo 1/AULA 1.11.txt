@@ -1,0 +1,14 @@
+AULA 1.11
+
+- O que é JPA (Java Persistence API)?
+	- especificação oficial que descreve como deve ser o comportamento dos framewkors de persistencia Java que desejarem implementar
+	- JCP quem especifica / comunidade
+	- não tem código a ser executado
+	- possui classes para ajudar o dev a abastrair independente das implementações (pacote javax)
+	- hibernate, eclipselink (referencia, prova que funciona) e openjpa
+- vantagens
+	- nao escreve sql
+	- produtividade e código mais simples
+	- organização
+	- indenpendente de banco de dados e implementação
+	- facilidade de manutenção

@@ -1,0 +1,9 @@
+AULA 6.14
+
+- tabela segundária
+- cria tabela "cliente_detalhe" com atributo "cliente_id"
+
+@SecondaryTable(name = "cliente_detalhe", pkJoinColumns = @PrimaryKeyJoinColumn(name = "cliente_id"))
+
+- adicionar atributos na tabela secundária
+@Column(table = "cliente_detalhe")

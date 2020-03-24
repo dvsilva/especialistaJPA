@@ -1,0 +1,8 @@
+AULA 8.8
+- @OneToMany ou @OneToOne -> orphanRemoval = true
+
+- somente remoção -> CascadeType.REMOVE igual ao orphanRemoval
+- atualização da lista -> CascadeType.PERSIST e orphanRemoval -> remover o item da lista de uma outra classe e remover o item do banco de dados
+
+@OneToMany(mappedBy = "pedido", cascade = CascadeType.REMOVE)
+private List<ItemPedido> itens;

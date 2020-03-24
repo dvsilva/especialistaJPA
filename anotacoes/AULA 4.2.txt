@@ -1,5 +1,0 @@
-AULA 4.2
-
-- mapeando relacionamentos
-- @ManyToOne não obriga joinColumn e mappedby
-- por padrão cria nome da coluna com nome do atriibuto + nome da primary key, ex: cliente_id (a do cliente pega do mapeamento @Column)

@@ -1,0 +1,7 @@
+AULA 6.12
+
+- salvando arquivos
+- lob -> large object
+
+@Lob
+private byte[] xml;

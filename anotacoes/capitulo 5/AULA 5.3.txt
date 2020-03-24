@@ -1,0 +1,6 @@
+AULA 5.3
+
+- transação periodo de tempo entre o begin e commit que pode fazer mudanças com consistencias
+- rollback - cancelar transação
+	- geralmente valida antes de fazer a inserção por exemplo
+	- quase nunca usa

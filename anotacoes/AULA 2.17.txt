@@ -1,8 +1,0 @@
-AULA 2.17
-
-- biblioteca lombok
-- getters, setters, hashcode and equals não precisa ter métodos explicitos
-- utilizar anotações @Getter, @Setter e EqualsAndHashCode(onlyExplicitlyIncluded = true)
-	- onlyExplicitlyIncluded - somente incluir no hashcode e equals os que forem direcionados atraves da anotação @EqualsAndHashCode.Include
-- instalar plugin lombok
-- instalar pelo jar

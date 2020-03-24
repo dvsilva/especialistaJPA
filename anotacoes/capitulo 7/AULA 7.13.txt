@@ -1,0 +1,8 @@
+AULA 7.13
+
+- criando tabelas com um script sql
+
+<property name="javax.persistence.schema-generation.create-script-source"
+          value="META-INF/banco-de-dados/script-criacao.sql"/>
+<property name="javax.persistence.schema-generation.drop-script-source"
+          value="META-INF/banco-de-dados/script-remocao.sql"/>

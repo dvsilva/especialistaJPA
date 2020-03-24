@@ -1,0 +1,8 @@
+AULA 5.4
+
+- método flush
+- força enviar update para o banco alterando entidade gerenciada e depois chamar o flush()
+- tudo que esta na memoria salva e depois do clear limpa
+- clear obriga a ir no banco
+- Uma consulta JPQL obriga o JPA a sincronizar o que ele tem na memória (sem usar o flush explicitamente).
+- não busca no primeiro cache nível mas tudo que tem a ver com a query que nao esta sincornizado ele sincroniza nao sendo necessário o flush, ele executa um update antes

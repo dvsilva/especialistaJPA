@@ -1,4 +1,0 @@
-AULA 1.3
-
-- O que é persistencia?
-	- armazenar a informação pelo período de tempo desejado de forma que ela possa ser recuperada ou apagada

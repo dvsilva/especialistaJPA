@@ -1,6 +1,0 @@
-AULA 2.12
-
-- atualizarObjetoGerenciado - busca o objeto primeiro na base para depois atualizar
-- não precisa ter metodo merge
-- só modifica o objeto durante a transação ele modifica automatico
-- entitymanager percebe que o atributo foi alterado para um objeto gerenciado e joga a alteração para a base de dados mesmo antes da transão

@@ -1,8 +1,0 @@
-AULA 4.13
-
-- atributo optional
-	- @ManyToOne(optional = false)
-		- pode utilizar um inner join do que um left other join
-		- inner join é mais performatico que um left other join
-	- quando vai persistir é obritatório?
-	-

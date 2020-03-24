@@ -1,0 +1,4 @@
+AULA 1.9
+
+- @BeforeClass e @AfterClass -> antes e depois de todos os testes
+- @Before e @After -> antes e depois de cada teste

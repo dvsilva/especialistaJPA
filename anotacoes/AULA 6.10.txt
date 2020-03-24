@@ -1,9 +1,0 @@
-AULA 6.10
-
-- coleções de objetos embutidos
-- cria tabela "produto_atributo" com atributo "produto_id", "nome", "valor"
-
-@ElementCollection
-@CollectionTable(name = "produto_atributo",
-        joinColumns = @JoinColumn(name = "produto_id"))
-private List<Atributo> atributos;

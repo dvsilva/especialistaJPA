@@ -1,5 +1,0 @@
-AULA 7.1
-
-- quando criar o banco usando JPA
-- <property name="javax.persistence.schema-generation.database.action"  value="drop-and-create"/> - não recomendado para produção
-- usar em dev, antes de homologação ou testes de integração

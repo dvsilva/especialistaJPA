@@ -1,7 +1,0 @@
-AULA 5.7
-
-- listeners para eventos do ciclo de vida
-- callback deixa na entidade e trabalha nas propriedades das entidades
-- listener faz integração com as demais entidades
-- @PrePersist e @PreUpdate - adiciona no service
-- @EntityListeners({ GerarNotaFiscalListener.class, GenericoListener.class }) - adiciona na classe pedido

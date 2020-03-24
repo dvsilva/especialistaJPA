@@ -1,0 +1,3 @@
+AULA 8.1
+- cascade PERSIST, MERGE, REMOVE, DETACH, REFRESH
+@OneToMany(mappedBy = "pedido", cascade = CascadeType.PERSIST)

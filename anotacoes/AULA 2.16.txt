@@ -1,8 +1,0 @@
-AULA 2.16
-
-- detach 
-	- desanexar instancia que está na memória do entitymanager 
-	- impede operação com o banco de dados
-	- entitymanager deixa de gerenciar o objeto
-	- alteração do atributo deixa de fazer efeito 
-	- não executa update

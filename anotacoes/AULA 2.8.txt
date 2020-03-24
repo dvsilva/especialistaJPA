@@ -1,8 +1,0 @@
-AULA 2.8
-
-- transação - periodo de tempo que pode fazer alterações no banco de dados com consistencia
-- consulta não precisa de transação realizar mudanças precisa de transação
-- garantir que mudanças (inserir, atualizar e remover) sejam executadas com sucesso ou falhe
-- entityManager.getTransaction().begin() - inicio da tansação
-- entityManager.getTransaction().commit() - finaliza a transação
-- profissional automatiza a transação

@@ -1,0 +1,17 @@
+AULA 6.18
+
+- TABLE_PER_CLASS -> cria uma tabela por classe que extende parece com mappedsuperclass
+- por causa do union essa estrategia seja menos rápida
+
+@Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
+
+e 
+
+@Table(name = "pagamento_boleto"
+
+e 
+
+@Table(name = "pagamento_cartao")
+
+não precisa do @DiscriminatorColumn, 
+@Table(name = "pagamento") e @DiscriminatorValue

@@ -1,7 +1,0 @@
-AULA 2.10
-
-- remove - remover registro no banco de dados
-- erro "remove detached instance" - remover instancia que ele nao conhece a existencia
-- para conhecer instancia tem que buscar a entidade com find
-- remove também aguarda para executar quando tem transação
-- clear - não pe necessário na remoção

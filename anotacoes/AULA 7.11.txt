@@ -1,7 +1,0 @@
-AULA 7.11
-
-- @PrimaryKeyJoinColumn -> foreignKey não funciona na DDL
-
-@SecondaryTable(name = "cliente_detalhe",
-        pkJoinColumns = @PrimaryKeyJoinColumn(name = "cliente_id"),
-        foreignKey = @ForeignKey(name = "fk_cliente_detalhe_cliente"))

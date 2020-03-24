@@ -1,4 +1,0 @@
-AULA 7.8
-
-- joinmColumn, name, nullable, unique, foreignkey, columndefinition
-- foreignKey = @ForeignKey(name = "fk_produto_categoria_produto")), -> customizar nome da chave estrangeira

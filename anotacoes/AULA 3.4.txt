@@ -1,3 +1,0 @@
-AULA 3.4
-
-- anotações do JPA (@Id ...) pode ser anotadas nos métodos porem todas os outros atributos precisam seguir esse padrão senao não funciona

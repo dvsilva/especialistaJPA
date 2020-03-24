@@ -1,0 +1,12 @@
+AULA 2.14
+
+- persist 
+	- só serve para persistir (comando de insert)
+	- coloca como um objeto gerenciado
+	- ao utilizar m método set ele executa um update
+- merge
+	- serve para persistir e atualizar
+	- não pega exatamente a instancia do parametro
+	- faz uma cópia da instancia e jogar para o entitymanager gerenciar
+	- se executar um metodo set no objeto ele não atualiza automaticamente
+	- se receber a instancia do metodo merge funciona

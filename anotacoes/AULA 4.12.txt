@@ -1,9 +1,0 @@
-AULA 4.12
-
-- eager (ansioso) e lazy (preguiçoso)
-	- para listas o padão é lazy, não carrega automatico
-		- só traz quando utilizar/chamar para buscar a lista
-	- fetch = FetchType.EAGER (funciona no joinColumn do @ManyToOne ou @mManyToOne)
-		- não precisa chamar para carregar os itens
-- eager -
-- lazy -

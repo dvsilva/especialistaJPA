@@ -1,6 +1,0 @@
-AULA 5.5
-
-- contexto de persistência
-	- se alterar atributo apos o commit ele atualiza automaticamente
-- dirty checking
-	- checagem de sujeira - se não teve alterações no objeto gerenciado mesmo sem persist/merger
