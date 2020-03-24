@@ -1,0 +1,8 @@
+AULA 12.3
+- pool de conexões -> grupo de conexões que ja estaram estabelecidas só esperando para serem utilizadas
+- por quê? 
+	- criar uma conexão não é algo instantâneo porque envolve um sistema externo que é o banco de dados. 
+	- Principalmente, quando o banco está em uma máquina diferente pois envolve delay natural da rede
+- quantas conexões abrir?
+	- fatores: cores da máquina que a aplicação está hospedada, rede, performance da máquina do banco de dados
+- formula base -> numero de cores da máquina * 2 ... e teste

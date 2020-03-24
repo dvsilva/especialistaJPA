@@ -1,0 +1,3 @@
+AULA 12.9
+- javax.persistence.fetchgraph - ignorar o que não esta descrito, mas executa na query, para isso coloca atributo como Lazy
+- javax.persistence.loadgraph - traz todos os atributos descritos e respeita os atributos lazy

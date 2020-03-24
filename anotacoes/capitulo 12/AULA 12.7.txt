@@ -1,0 +1,22 @@
+AULA 12.7
+- converter valor de uma coluna do bd para algum valor na app
+
+@Convert(converter = BooleanToSimNaoConverter.class)
+@NotNull
+@Column(length = 3, nullable = false)
+private Boolean ativo = Boolean.FALSE;
+
+
+@Converter
+public class BooleanToSimNaoConverter implements AttributeConverter<Boolean, String> {
+
+    @Override
+    public String convertToDatabaseColumn(Boolean attribute) {
+        return Boolean.TRUE.equals(attribute) ? "SIM" : "NAO";
+    }
+
+    @Override
+    public Boolean convertToEntityAttribute(String dbData) {
+        return "SIM".equals(dbData) ? Boolean.TRUE : Boolean.FALSE;
+    }
+}

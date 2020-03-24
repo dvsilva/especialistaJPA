@@ -1,0 +1,22 @@
+AULA 12.5
+- adicionar biblioteca no pom.xml
+
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-hikaricp</artifactId>
+    <version>5.4.10.Final</version>
+</dependency>
+
+- configurar persistence.xml
+
+<property name="hibernate.hikari.maximumPoolSize" value="16" />
+<property name="hibernate.connection.provider_class"
+value="org.hibernate.hikaricp.internal.HikariCPConnectionProvider" />
+
+- outras configurações
+
+autoCommit -> commitar automaticamente
+connectionTimout -> quanto tempo vai esperar o pool
+idleTimeout -> minimo de conexões ociosas
+maximumPoolSize
+

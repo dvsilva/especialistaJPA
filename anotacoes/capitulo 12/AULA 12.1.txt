@@ -1,0 +1,30 @@
+AULA 12.1
+- validanto objetos com bean validation
+- @Column nullable para gerar o ddl
+- validar para ir para o banco usa a especificação do bean validation, hibernate validator implementa o bean validation
+
+adicionar no pom.xml
+
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-validator</artifactId>
+    <version>6.1.0.Final</version>
+</dependency>
+
+<dependency>
+	<groupId>org.glassfish</groupId>
+	<artifactId>javax.el</artifactId>
+	<version>3.0.0</version>
+</dependency>
+
+persistence.xml
+
+<validation-mode>AUTO</validation-mode> - se tiver no path o jar do hibernate validator ou qualquer implementação do bean-validation
+
+<validation-mode>CALLBACK</validation-mode> - obriga a utilizar
+
+
+<validation-mode>NONE</validation-mode> - desabilitar
+
+
+
