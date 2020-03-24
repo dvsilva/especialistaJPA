@@ -1,0 +1,19 @@
+AULA 10.13
+- tipagem forte com metamodel
+- substituir os nomes dos atributos das consultas
+- evitar de usar strings
+- classes com informações sobre as nossas entidades
+
+adicionar dependencia pom.xml
+
+ <dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-jpamodelgen</artifactId>
+    <version>5.4.10.Final</version>
+    <scope>provided</scope>
+</dependency>
+
+rodar comando package que será gerada as classes
+clean package -Dmaven.test.skip=true
+gera em target/generated-sources/annotations/package.model
+adicionar pasta no classpath

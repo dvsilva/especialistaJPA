@@ -1,0 +1,12 @@
+AULA 10.31
+- expressions
+basicamente tudo que se faz de consulta da creteria API
+
+- paths e funções
+é uma expression
+
+- predicate
+é uma expression
+ (onde usa o metamodel)
+condição/filtro
+expression do tipo boleano

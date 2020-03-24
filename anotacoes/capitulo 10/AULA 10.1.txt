@@ -1,0 +1,23 @@
+AULA 10.1
+- Criteria API
+
+- montar a query de maneira dinamica
+- mais verbosa
+- sem pre processamento ou pré-compilação
+- performance tão boa quanto com JPQL
+- JPQL -> parser com preprocessamento da query
+- dinamica e muito utilizada API criteria é melhor
+- ja gera o SQL
+
+- Root é o que coloca no from (raiz)
+
+CriteriaBuilder criteriaBuilder = entityManager.getCriteriaBuilder();
+CriteriaQuery<Pedido> criteriaQuery = criteriaBuilder.createQuery(Pedido.class);
+Root<Pedido> root = criteriaQuery.from(Pedido.class);
+
+// opicional
+criteriaQuery.select(root);
+
+criteriaQuery.where(criteriaBuilder.equal(root.get("id"), 1));
+
+TypedQuery<Pedido> typedQuery = entityManager.createQuery(criteriaQuery);
