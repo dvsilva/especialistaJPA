@@ -1,0 +1,24 @@
+AULA 15.6
+- multitenant em uma aplicação web
+- usa o TenantFilter
+- usa Spring MVC
+
+rodar com maven
+clean package jetty:run -Dmaven.test.skip=true
+
+adicionar no pom.xml
+
+<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-war-plugin</artifactId>
+    <version>3.2.3</version>
+    <configuration>
+        <failOnMissingWebXml>false</failOnMissingWebXml>
+    </configuration>
+</plugin>
+
+<plugin>
+    <groupId>org.eclipse.jetty</groupId>
+    <artifactId>jetty-maven-plugin</artifactId>
+    <version>9.4.25.v20191220</version>
+</plugin>

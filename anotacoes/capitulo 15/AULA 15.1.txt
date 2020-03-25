@@ -1,0 +1,4 @@
+AULA 15.1
+- multitenant -> multi inquilinos
+- hibernate da o suporte
+- tipos: máquina (vários bd distribuidos), schema (um bd e vários esquemas), identificador na tabela (adiciona na tabela uma colina TenantID)

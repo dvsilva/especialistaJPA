@@ -1,0 +1,5 @@
+AULA 15.5
+- modificar o persistence.xml
+
+<property name="hibernate.multi_tenant_connection_provider"
+value="com.algaworks.ecommerce.hibernate.EcmMachineMultiTenantConnectionProvider"/>
