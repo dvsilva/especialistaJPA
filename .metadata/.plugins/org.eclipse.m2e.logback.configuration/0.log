@@ -2122,3 +2122,128 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2020-03-25 11:02:15,719 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
 2020-03-25 11:02:15,722 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-03-25 11:02:15,723 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:15:02,024 [Worker-36: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:algaworks-ecommerce:1.0-SNAPSHOT @ /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/pom.xml.
+2020-03-25 11:15:02,987 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.7.5/eclipselink-2.7.5.pom
+2020-03-25 11:15:03,145 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.7.5/eclipselink-2.7.5.pom
+2020-03-25 11:15:03,308 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.pom
+2020-03-25 11:15:03,466 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.pom
+2020-03-25 11:15:03,629 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.pom
+2020-03-25 11:15:03,789 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.pom
+2020-03-25 11:15:03,822 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:15:04,099 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.7.5/eclipselink-2.7.5.jar
+2020-03-25 11:15:10,962 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.7.5/eclipselink-2.7.5.jar
+2020-03-25 11:15:11,118 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar
+2020-03-25 11:15:11,351 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar
+2020-03-25 11:15:11,518 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.jar
+2020-03-25 11:15:11,679 [Worker-36: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.jar
+2020-03-25 11:15:12,151 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:15:12,395 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:12,397 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:15:12,399 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:12,400 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:15:13,389 [Worker-41: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:15:14,104 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.7.5/eclipselink-2.7.5-sources.jar
+2020-03-25 11:15:15,321 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:15,322 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2020-03-25 11:15:15,336 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:15,336 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:15:21,100 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-25 11:15:21,213 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:algaworks-ecommerce:1.0-SNAPSHOT @ /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/pom.xml.
+2020-03-25 11:15:21,238 [Worker-42: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:15:21,243 [Worker-42: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:15:21,269 [Worker-42: Updating Maven Project] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-03-25 11:15:21,270 [Worker-42: Updating Maven Project] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-03-25 11:15:21,310 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projeto/src/main/java
+2020-03-25 11:15:21,311 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projeto/src/main/resources
+2020-03-25 11:15:21,312 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projeto/src/test/java
+2020-03-25 11:15:21,313 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projeto/src/test/resources
+2020-03-25 11:15:21,641 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-25 11:15:24,777 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:15:24,796 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:24,797 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2020-03-25 11:15:24,806 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:24,807 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:15:32,356 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.7.5/eclipselink-2.7.5-sources.jar
+2020-03-25 11:15:32,942 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:eclipselink:2.7.5
+2020-03-25 11:15:33,092 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3-sources.jar
+2020-03-25 11:15:33,714 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3-sources.jar
+2020-03-25 11:15:33,826 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:jakarta.persistence:2.2.3
+2020-03-25 11:15:33,974 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1-sources.jar
+2020-03-25 11:15:34,129 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1-sources.jar
+2020-03-25 11:15:34,220 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:commonj.sdo:2.1.1
+2020-03-25 11:15:35,219 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:35,221 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:15:35,223 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:35,223 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:15:35,280 [Worker-44: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:eclipselink:2.7.5
+2020-03-25 11:15:35,280 [Worker-44: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:jakarta.persistence:2.2.3
+2020-03-25 11:15:35,281 [Worker-44: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:commonj.sdo:2.1.1
+2020-03-25 11:15:35,282 [Worker-44: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:eclipselink:2.7.5
+2020-03-25 11:15:35,282 [Worker-44: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:jakarta.persistence:2.2.3
+2020-03-25 11:15:35,283 [Worker-44: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:commonj.sdo:2.1.1
+2020-03-25 11:15:36,243 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:36,244 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:15:36,244 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:15:36,245 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:16:06,580 [Worker-40: Building Project projeto] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:16:06,581 [Worker-40: Building Project projeto] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2020-03-25 11:16:06,584 [Worker-40: Building Project projeto] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:16:06,584 [Worker-40: Building Project projeto] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:16:32,216 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:16:32,217 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:16:32,218 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:16:32,219 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:21:48,183 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:21:48,184 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2020-03-25 11:21:48,187 [Worker-45: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:21:48,188 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:22:02,794 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:22:02,795 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2020-03-25 11:22:02,798 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:22:02,798 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:22:37,091 [Worker-46: Launching projeto] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto
+2020-03-25 11:22:37,092 [Worker-46: Launching projeto] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dmaven.test.skip=true
+2020-03-25 11:22:49,669 [Worker-47: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:algaworks-ecommerce:1.0-SNAPSHOT @ /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/pom.xml.
+2020-03-25 11:22:49,691 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:22:49,697 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:22:49,880 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:22:49,882 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:22:49,883 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:22:49,883 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:22:51,068 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:22:51,073 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:22:51,074 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:22:51,074 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:22:51,075 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:22:52,066 [Worker-49: Launching projeto] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto
+2020-03-25 11:22:52,066 [Worker-49: Launching projeto] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package -Dmaven.test.skip=true
+2020-03-25 11:23:06,823 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:23:06,824 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:23:06,825 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:23:06,826 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:23:18,208 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:23:18,209 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2020-03-25 11:23:18,210 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:23:18,211 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:23:19,225 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:23:19,226 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:23:19,227 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:23:19,227 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:23:50,604 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:23:50,606 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2020-03-25 11:23:50,611 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:23:50,611 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-03-25 11:24:05,308 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-25 11:24:05,457 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:algaworks-ecommerce:1.0-SNAPSHOT @ /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/pom.xml.
+2020-03-25 11:24:05,482 [Worker-49: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:24:05,488 [Worker-49: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:24:05,669 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projeto/src/main/java
+2020-03-25 11:24:05,669 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projeto/src/main/resources
+2020-03-25 11:24:05,670 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projeto/src/test/java
+2020-03-25 11:24:05,670 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projeto/src/test/resources
+2020-03-25 11:24:05,895 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-03-25 11:24:10,702 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+2020-03-25 11:24:10,722 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:24:10,723 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2020-03-25 11:24:10,734 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-03-25 11:24:10,734 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources

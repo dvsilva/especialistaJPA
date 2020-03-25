@@ -1,0 +1,10 @@
+AULA 16.2
+- alterar pom.xml colcar dependencia do postgres
+- alterar persistence.xml informações de conexão e hibernate.dialect
+- alterar anotação do id para sequence
+- unique e index clocar nome da tabela
+- @Type(type="org.hibernate.type.BinaryType") em tipos de byte[]
+- comentar @Lob
+- alterar função do sql de sysdate para now()
+- para bytes adicionar 'str'::bytea
+- tirar auto increment, longtext, datetime etc

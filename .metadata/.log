@@ -10695,3 +10695,851 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:02:15.722
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:03.823
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:12.151
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:12.396
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:12.399
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:13.389
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:15.321
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:15.336
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:21.238
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:21.243
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:21.270
+!MESSAGE Could not determine source level, using default 1.5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:21.270
+!MESSAGE Could not determine target level, using default 1.5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:24.777
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:24.796
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:24.807
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:35.219
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:35.223
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:36.243
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:15:36.245
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:16:06.581
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:16:06.584
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:16:32.217
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:16:32.219
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:21:48.183
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:21:48.188
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:02.794
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:02.798
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:49.692
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:49.698
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:49.880
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:49.883
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:51.068
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:51.073
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:22:51.075
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:23:06.824
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:23:06.825
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.016
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/PathExpressionsTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/PathExpressionsTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.016
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/PathExpressionsTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/PathExpressionsTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.021
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/OperadoresLogicosCriteriaTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/OperadoresLogicosCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.021
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/OperadoresLogicosCriteriaTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/OperadoresLogicosCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.043
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/GroupByCriteriaTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/GroupByCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.043
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/GroupByCriteriaTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/GroupByCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.047
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/OperacoesEmLoteCriteriaTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/OperacoesEmLoteCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.047
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/OperacoesEmLoteCriteriaTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/OperacoesEmLoteCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.055
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/ExpressoesCondicionaisCriteriaTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/ExpressoesCondicionaisCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.055
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/ExpressoesCondicionaisCriteriaTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/ExpressoesCondicionaisCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.058
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/detalhesimportantes/EntityGraphTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/detalhesimportantes/EntityGraphTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.058
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/detalhesimportantes/EntityGraphTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/detalhesimportantes/EntityGraphTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.061
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/MetaModelTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/MetaModelTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.061
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/MetaModelTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/MetaModelTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.078
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/FuncoesCriteriaTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/FuncoesCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.078
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/FuncoesCriteriaTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/FuncoesCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.086
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/BasicoCriteriaTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/BasicoCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.087
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/BasicoCriteriaTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/BasicoCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.jdt.core 4 4 2020-03-25 11:23:18.112
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/projeto/target/test-classes/com/algaworks/ecommerce/criteria/SubqueriesCriteriaTest.class)[368]: java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/SubqueriesCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-03-25 11:23:18.113
+!MESSAGE File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/SubqueriesCriteriaTest.class.
+!STACK 0
+java.lang.Exception: File not found: /home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/projeto/target/test-classes/com/algaworks/ecommerce/criteria/SubqueriesCriteriaTest.class.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:39)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:35)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:830)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:277)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1149)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:939)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:881)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:871)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:200)
+	at org.eclipse.jdt.internal.compiler.Compiler.processCompiledUnits(Compiler.java:615)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:472)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:423)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:383)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:368)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:315)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.incrementalBuildLoop(IncrementalImageBuilder.java:183)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:143)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:276)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:23:18.209
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:23:18.211
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:23:19.226
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:23:19.227
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:23:50.605
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:23:50.611
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:24:05.483
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:24:05.488
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:24:10.703
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.0.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.0.Final
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:24:10.722
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-25 11:24:10.734
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -1,0 +1,14 @@
+AULA 16.3
+- colocar dependencia do eclipse link
+
+<dependency>
+    <groupId>org.eclipse.persistence</groupId>
+    <artifactId>eclipselink</artifactId>
+    <version>2.7.5</version>
+</dependency>
+
+- configurar pom.xml
+
+<exclude-unlisted-classes>false</exclude-unlisted-classes>
+
+- eclipse link pede alias

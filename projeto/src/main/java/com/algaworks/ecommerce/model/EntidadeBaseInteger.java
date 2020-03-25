@@ -5,8 +5,6 @@ import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotNull;
 import java.time.LocalDateTime;
 import java.util.Calendar;
 import java.util.Date;
@@ -24,7 +22,4 @@ public class EntidadeBaseInteger {
 
     @Version
     private Integer versao;
-
-    @NotBlank
-    private String tenant;
 }
