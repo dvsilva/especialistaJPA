@@ -1,0 +1,22 @@
+AULA 13.6
+- controle dinamico do cache
+
+javax.persistence.cache.retrieveMode CacheRetrieveMode -> usar cache ou não na pesquisa
+javax.persistence.cache.storeMode CacheStoreMode-> pegar resultado e colocar no cache ou não
+
+
+entityManager1.setProperty("javax.persistence.cache.storeMode", CacheStoreMode.BYPASS);
+
+entityManager1
+.createQuery("select p from Pedido p", Pedido.class)
+.setHint("javax.persistence.cache.storeMode", CacheStoreMode.USE)
+.getResultList();
+
+
+Map<String, Object> propriedades = new HashMap<>();
+propriedades.put("javax.persistence.cache.storeMode", CacheStoreMode.BYPASS);
+propriedades.put("javax.persistence.cache.retrieveMode", CacheRetrieveMode.BYPASS);
+entityManager2.find(Pedido.class, 2, propriedades);
+
+entityManager3
+.createQuery("select p from Pedido p", Pedido.class).setHint("javax.persistence.cache.retrieveMode", CacheRetrieveMode.BYPASS)

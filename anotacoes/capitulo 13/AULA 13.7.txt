@@ -1,0 +1,48 @@
+AULA 13.7
+- ehCache como implementação de cache
+
+adicionar no pom.xml
+
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-jcache</artifactId>
+    <version>5.4.10.Final</version>
+</dependency>
+
+<dependency>
+    <groupId>org.ehcache</groupId>
+    <artifactId>ehcache</artifactId>
+    <version>3.8.1</version>
+</dependency>
+
+configurar persistence.xml
+
+<property name="hibernate.cache.region.factory_class"
+value="org.hibernate.cache.jcache.internal.JCacheRegionFactory"/>
+<property name="hibernate.javax.cache.provider"
+value="org.ehcache.jsr107.EhcacheCachingProvider"/>
+<property name="hibernate.javax.cache.uri" value="META-INF/ehcache.xml"/>
+
+criar arquivo META-INF/ehcache.xml
+
+<service>
+    <jsr107:defaults default-template="padrao" />
+</service>
+
+<cache alias="com.algaworks.ecommerce.model.Pedido" uses-template="padrao">
+    <expiry>
+        <tti unit="seconds">2</tti>
+    </expiry>
+</cache>
+
+<cache-template name="padrao">
+    <key-type>java.lang.Object</key-type>
+    <value-type>java.lang.Object</value-type>
+
+    <expiry>
+        <ttl unit="seconds">20</ttl>
+    </expiry>
+
+    <heap unit="entries">1000</heap>
+</cache-template>
+

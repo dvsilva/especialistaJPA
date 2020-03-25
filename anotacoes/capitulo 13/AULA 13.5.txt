@@ -1,0 +1,15 @@
+AULA 13.5
+- verificar se está no cache
+
+configurar no persistence.xml
+
+UNSPECIFIED -> não faz o cache
+NONE -> não é para ter cache
+DISABLE_SELECTIVE -> não cachear as que estão marcadas como @Cacheable(false)
+ENABLE_SELECTIVE -> só cachear as que estão marcadas como @Cacheable(true) ou @Cacheable
+ALL -> faz cache em todas
+
+<shared-cache-mode>ALL</shared-cache-mode>
+
+Cache cache = entityManagerFactory.getCache();
+Assert.assertTrue(cache.contains(Pedido.class, 1));

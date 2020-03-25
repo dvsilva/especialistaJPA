@@ -1,0 +1,18 @@
+AULA 13.1
+- 1º nível - cache de memória do entity manager
+ex. em um entitymanager buscar da memória (faz uma consulta), em caso de dois entitymanager executa o sql duas vezes
+
+- 2º nível - se tem relacionamento ao buscar do cache se for em branco ele busca novamente do banco
+
+adicionar implementação do jcache dependencia no xml
+
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-testing</artifactId>
+    <version>5.4.10.Final</version>
+</dependency>
+
+adicionar no persistence.xml
+
+<property name="javax.persistence.sharedCache.mode" value="ALL"/>
+

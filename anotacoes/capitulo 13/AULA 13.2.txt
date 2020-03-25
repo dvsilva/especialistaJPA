@@ -1,0 +1,2 @@
+AULA 13.2
+- mesmo se executar JPQL o resultado é armazenado no cache não precisando buscar no banco novamente (mesmo problema do relacionamento em branco, ele busca novamente os dados do relacionamento)

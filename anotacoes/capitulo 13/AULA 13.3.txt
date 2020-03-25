@@ -1,0 +1,8 @@
+AULA 13.3
+- remover do cache
+
+Cache cache = entityManagerFactory.getCache();
+
+cache.evict(Pedido.class, 1); // remove essa instancia
+cache.evict(Pedido.class); // remove instancias dessa classe
+cache.evictAll(); // remove instancia de todas as classes
