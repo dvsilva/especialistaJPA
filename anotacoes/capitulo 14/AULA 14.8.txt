@@ -1,0 +1,8 @@
+AULA 14.8
+- outros tipos de lock
+
+- OPTIMISTC parecido com READ (padrão) (@Version) 
+- WRITE parecido OPTIMISTIC_FORCE_INCREMENT -> forçar alteração de versao (quando alteração mesmo que não altere nada na entidade)
+- PESSIMISTIC_READ e PESSIMISTIC_WRITE -> (já visto)
+- PESSIMISTIC_FORCE_INCREMENT -> mistura de PESSIMISTIC_WRITE e OPTIMISTIC_FORCE_INCREMENT
+- NONE - sem lock

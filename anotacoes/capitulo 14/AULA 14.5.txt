@@ -1,0 +1,9 @@
+AULA 14.5
+- Lock Pessimista LockModeType PessimisticRead
+
+- trancar o registro as outras solicitações podem ler mas não gravar
+- quem pede o lock primeiro fica valendo a outra da erro
+- LockAquisionException
+
+Produto produto = entityManager1.find(
+Produto.class, 1, LockModeType.PESSIMISTIC_READ);

@@ -22,7 +22,6 @@ INDEX VERSION 1.131+/home/danyllo/Documentos/apps/meus_projetos/especialistaJPA/
 2087532761.index
 1344871830.index
 229466036.index
-2018372985.index
 2284393312.index
 4200889150.index
 2252413805.index

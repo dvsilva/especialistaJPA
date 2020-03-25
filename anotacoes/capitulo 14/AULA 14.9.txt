@@ -1,0 +1,12 @@
+AULA 14.9
+- lock com JPQL e criteria
+
+log("Runnable 01 vai carregar todos os produtos.");
+List<Produto> lista = entityManager1
+.createQuery("select p from Produto p where p.id in (3,4,5)")
+.setLockMode(LockModeType.PESSIMISTIC_READ)
+.getResultList();
+
+log("Runnable 02 vai carregar o produto 2.");
+Produto produto = entityManager2.find(
+Produto.class, 1, LockModeType.PESSIMISTIC_WRITE);

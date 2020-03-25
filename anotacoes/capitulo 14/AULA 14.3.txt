@@ -1,0 +1,7 @@
+AULA 14.3
+
+@Version
+private Integer versao;
+
+- tipos: Integer, Long, Date, Calendar, LocalDateTime 
+preferivel número

@@ -1,0 +1,9 @@
+AULA 14.6
+- Lock Pessimista LockModeType PessimisticWrite
+
+- as outras transações não poderão atualizar
+- as outras transações esperam a anterior terminar
+- retirar @Version caso a primeira não for PessimisticWrite
+
+Produto produto = entityManager1.find(
+Produto.class, 1, LockModeType.PESSIMISTIC_WRITE);

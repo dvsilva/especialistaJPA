@@ -1,0 +1,7 @@
+AULA 14.2
+- lock otimista -> não trava mas da erro (OptimistLockException)
+
+colocar atributo @Version
+
+@Version
+private Integer versao;
