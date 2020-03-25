@@ -1,0 +1,12 @@
+AULA 17.2
+- configuração necessária
+pom.xml, IncializadorSpringWeb, spring.config
+
+- atender requisições
+controller e webapp
+
+- outros
+service e repository
+
+rodar
+clean package jetty:run -Dmaven.test.skip=true

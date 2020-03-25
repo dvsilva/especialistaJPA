@@ -1,0 +1,5 @@
+AULA 17.3
+- JpaConfig cria a factory que é chamada pelo filtro 
+- InicializadorSpringWeb atraves do filtro openEntityManager cria isntancia do eneitymanager
+- JpaConfig é responsavel por criar e fechar a transação
+- Metodos do service são marcados como Transational chama gerenciam a transação 

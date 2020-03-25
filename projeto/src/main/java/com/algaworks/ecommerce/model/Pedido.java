@@ -69,6 +69,7 @@ public class Pedido extends EntidadeBaseInteger
     @Column(name = "data_conclusao")
     private LocalDateTime dataConclusao;
 
+
 //    @LazyToOne(LazyToOneOption.NO_PROXY)
     @OneToOne(mappedBy = "pedido")
     private NotaFiscal notaFiscal;

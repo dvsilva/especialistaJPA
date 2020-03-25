@@ -1,0 +1,7 @@
+AULA 17.7
+- tansações
+
+- gerenciador de transações
+- JTA ou RESOURCE_LOCAL (vamos gerenciar localmente)
+
+<persistence-unit name="Ecommerce-PU" transaction-type="JTA">	

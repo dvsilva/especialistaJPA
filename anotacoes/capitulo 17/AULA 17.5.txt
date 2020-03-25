@@ -1,0 +1,6 @@
+AULA 17.5
+- framework kumuluzEE
+
+- cofigurar pom.xml, beans.xml (usar recursos do CDI) e persistence.xml
+- criar controller e webapp
+- adicionar repository e services

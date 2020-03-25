@@ -1,0 +1,2 @@
+AULA 17.6
+- @PersistenceContext -> CDI gerencia o entityManager

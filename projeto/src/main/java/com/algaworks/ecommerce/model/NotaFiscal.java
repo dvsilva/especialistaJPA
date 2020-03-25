@@ -1,6 +1,5 @@
 package com.algaworks.ecommerce.model;
 
-import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -8,20 +7,13 @@ import javax.persistence.*;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.PastOrPresent;
-import java.time.LocalDate;
 import java.util.Date;
 
 @Getter
 @Setter
 @Entity
 @Table(name = "nota_fiscal")
-public class NotaFiscal {
-
-    @Id
-    private Integer id;
-
-    @Version
-    private Integer versao;
+public class NotaFiscal extends EntidadeBaseInteger {
 
     @NotNull
     @MapsId
